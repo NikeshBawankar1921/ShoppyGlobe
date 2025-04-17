@@ -46,4 +46,4 @@ export const cartSlice = createSlice({
 export const { addToCart, removeFromCart, decreaseQuantity } = cartSlice.actions;
 
 // Export reducer to include in the Redux store
-export default cart
+export default cartSlice.reducer;
