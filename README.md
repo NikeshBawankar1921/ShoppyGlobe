@@ -30,7 +30,7 @@ To get started with this project, you'll need to clone the repository and instal
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/shoppyglobe.git
+git clone https://github.com/NikeshBawankar1921/ShoppyGlobe
 cd ShoppyGlobe
 ```
 
@@ -73,4 +73,4 @@ The app will be available at [http://localhost:5173](http://localhost:5173).
 
 You can access the repository on GitHub here:
 
-[ShoppyGlobe GitHub Repository](https://github.com/your-username/shoppyglobe)
+[ShoppyGlobe GitHub Repository](https://github.com/NikeshBawankar1921/ShoppyGlobe)
